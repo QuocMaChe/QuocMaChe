@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nguyễn Quốc Anh
-- 🌱 I’m currently learning everything I can
 
 
 <!---
